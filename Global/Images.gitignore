@@ -24,6 +24,10 @@
 
 # RAW
 *.raw
+*.arw
+*.cr2
+*.nrw
+*.k25
 
 # Web P
 *.webp
@@ -48,6 +52,9 @@
 # Portable Document Format
 *.pdf
 
+# Encpsulated PostScript
+*.eps
+
 # X BitMap
 *.xbm
 
@@ -61,3 +68,45 @@
 # 3D Images
 *.3dm
 *.max
+
+# AOM
+*.avif
+
+# Flexible Image Transport System
+*.fits
+
+# Apple Macintosh PICT
+*.pict
+
+# Windows Metafile Format
+*.wmf
+
+# Enhanced Metafile Format
+*.emf
+
+# Computer Graphics Metafile
+*.cgm
+
+# CorelDRAW
+*.cdr
+
+# Adobe Photoshop Document
+*.psd
+
+# Adobe InDesign Documents
+*.ind
+*.indd
+*.indt
+
+# Adobe Illustrator
+*.ai
+
+# High Efficiency File Format
+*.heif
+*.heic
+
+# Krita image file
+*.kra
+
+# GIMP
+*.xcf
