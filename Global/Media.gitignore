@@ -1,0 +1,232 @@
+#
+# Video
+#
+
+# Advanced Video Coding High Definition 
+*.avchd
+
+# Matroska
+*.mkv
+*.mk3d
+*.mka
+
+# MPEG
+*.mp4
+*.m4v
+*.m4p
+*.mpg
+*.mp2
+*.mpeg
+*.mpe
+*.mpv
+*.m2v
+*.m4a
+*.m4b
+*.mpeg4
+
+# MPEG Layer
+*.mp1
+*.mp2
+*.mp3
+
+# MPEG program stream
+*.m2p
+*.ps
+
+# MPEG transport stream
+*.ts
+*.tsv
+
+# BDAV MPEG-2 transport stream
+*.m2ts
+*.mts
+
+# Apple QuickTime Movie
+*.mov
+*.qt
+
+# Advanced Systems Format
+*.asf
+
+# AMV
+*.amv
+
+# Audio Video Interweave
+*.avi
+
+# Material Exchange Format
+*.mxf
+
+*.roq
+
+# Nullsoft Streaming Video
+*.nsv
+
+# Video Object
+*.vob
+
+# Enhanced VOB
+*.evo
+
+# Third Generation Partnership
+*.3gp
+*.3gpp
+*.3g2
+*.3gp2
+
+# Flash Video
+*.flv
+*.f4v
+*.f4p
+*.f4a
+*.f4b
+*.swf
+
+# Ogg
+*.ogg
+*.oga
+*.ogv
+*.ogx
+*.mogg
+*.spx
+
+# WebM
+*.webm
+
+# RealAudio / RealMedia
+*.ra
+*.rm
+*.ram
+
+# RealMedia Variable Bitrate
+*.rmvb
+
+# DivX Media Format
+*.divx
+
+# VivoActive (VIV)
+*.viv
+
+# Samsung
+*.svi
+
+# Dirac
+*.drc
+
+# GIF Video
+*.gifv
+
+# Multiple-image Network Graphics
+*.mng
+
+# Windows Media Video
+*.wmv
+
+# Windows Media Audio
+*.wma
+
+# Raw video format
+*.raw
+*.yuv
+
+#
+# Audio
+#
+
+# Audible (Amazon)
+*.aa
+*.aax
+
+# Advanced Audio Coding
+*.aac
+*.m4r
+
+# Dolby Arc Consistency algorithm 3
+*.ac3
+
+# Apple Interchange File Format
+*.aiff
+*.aif
+*.aifc
+*.aic
+
+# Apple Lossless Audio Codec
+*.alac
+*.caf
+
+# Adaptive Multi-Rate audio codec
+*.amr
+*.3ga
+
+# Monkey's audio
+*.ape
+
+# Sun audio format
+*.au
+*.snd
+
+# Adaptive Multi-Rate Wideband (AMR-WB)
+*.awb
+
+# Digital Speech Standard
+*.dss
+
+# Sony
+*.dvf
+
+# Free Lossless Audio Codec
+*.flac
+
+# GSM Full Rate
+*.gsm
+
+# iKlax
+*.iklax
+
+# Apple music
+*.movpkg
+
+# Musepack
+*.mpc
+*.mpp
+
+# Opus
+*.opus
+
+# Creative Voice
+*.voc
+
+# Dialogic ADPCM / VOX
+*.vox
+
+# Waveform Audio
+*.wav
+
+# WavPack
+*.wv
+*.wvc
+*.wave
+
+# 8-Bit Sampled Voice (8SVX) 
+*.8svx
+*.iff
+
+# Compact Disc Digital Audio
+*.cda
+
+# Digital Theater Systems
+*.dts
+*.dtshd
+*.dtsma
+
+# Pulse-code modulation
+*.pcm
+*.l16
+*.lpcm
+
+# MIDI
+*.mid
+*.midi
+
+# Extensible Music Format
+*.xmf
