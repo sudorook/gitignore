@@ -2,7 +2,7 @@
 # Video
 #
 
-# Advanced Video Coding High Definition 
+# Advanced Video Coding High Definition
 *.avchd
 
 # Matroska
@@ -207,7 +207,7 @@
 *.wvc
 *.wave
 
-# 8-Bit Sampled Voice (8SVX) 
+# 8-Bit Sampled Voice (8SVX)
 *.8svx
 *.iff
 
