@@ -103,6 +103,7 @@ InitTestScene*.unity*
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
 
 # UI Toolkit auto generated files
-/UIElementsSchema
+/UIElementsSchema/
+
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
