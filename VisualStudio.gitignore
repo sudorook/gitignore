@@ -427,5 +427,5 @@ FodyWeavers.xsd
 *.msm
 *.msp
 
-# VS Code C# Dev Kit
+# Offical VS Code C# Dev Kit Extension exclusion
 #*.lscache
